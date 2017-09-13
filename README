@@ -1,0 +1,4 @@
+> db.h:
+There must be a way to record URLs that have been installed, list these URLs,
+and check if something has already been installed so we can skip it. We'll use
+a simple flat file database and the bstrlib.h library to do it.
